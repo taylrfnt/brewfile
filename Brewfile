@@ -1,0 +1,23 @@
+# casks (apps)
+cask 'ghostty@tip'
+cask 'rancher'
+cask 'windows-app'
+cask 'font-commit-mono'
+cask 'font-symbols-only-nerd-font'
+
+# formulas n stuff
+brew 'git'
+brew 'keychain'
+brew 'zsh'
+brew 'oh-my-posh'
+brew 'zsh-vi-mode'
+brew 'zsh-autosuggestions'
+brew 'neovim'
+cask 'zen'
+brew 'lazygit'
+brew 'k9s'
+brew 'cheat'
+brew 'make'
+brew 'plantuml'
+brew 'go@1.24'
+brew 'eza'
