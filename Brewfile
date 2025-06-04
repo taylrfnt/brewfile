@@ -1,9 +1,10 @@
 # casks (apps)
+cask 'font-commit-mono'
+cask 'font-symbols-only-nerd-font'
 cask 'ghostty@tip'
 cask 'rancher'
 cask 'windows-app'
-cask 'font-commit-mono'
-cask 'font-symbols-only-nerd-font'
+cask 'zen'
 
 # formulas n stuff
 brew 'git'
@@ -13,7 +14,6 @@ brew 'oh-my-posh'
 brew 'zsh-vi-mode'
 brew 'zsh-autosuggestions'
 brew 'neovim'
-cask 'zen'
 brew 'lazygit'
 brew 'k9s'
 brew 'cheat'
