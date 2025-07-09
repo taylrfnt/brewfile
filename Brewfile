@@ -11,6 +11,7 @@ cask 'keycastr'
 cask 'basictex'
 cask 'maccy'
 cask 'itsycal'
+cask 'utm'
 
 # formulas n stuff
 brew 'git'
@@ -37,3 +38,4 @@ brew 'kubelogin'
 brew 'pandoc'
 brew 'groff'
 brew 'typst'
+brew 'ffmpeg'
